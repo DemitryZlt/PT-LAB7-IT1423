@@ -1,1 +1,13 @@
-
+/* Add your styles here */
+TABLE {
+  
+}
+TD {
+  background: #ddd;
+  padding: 5px;
+  border: 7px solid #fff;
+  font-family: "wingdings","Impact";
+}
+r {
+  color: #f00
+}
